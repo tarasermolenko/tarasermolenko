@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarasermolenko
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently working on my BA
+- 👀 I’m interested in Programming and Computer Networking
+- 🌱 I’m currently working on my BA in Computing Science
 
 
 
