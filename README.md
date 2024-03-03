@@ -6,4 +6,4 @@
 
 
 <!-- other projects -->
-# Other Projects
+# Completed Projects
