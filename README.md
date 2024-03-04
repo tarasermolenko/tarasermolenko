@@ -5,7 +5,7 @@
 
 
 <!-- current projects -->
-# Current Projects
+# Current Personal Projects
 
 [![Project](https://img.shields.io/badge/Project-RAT-blue)](https://github.com/tarasermolenko/RAT)
 
