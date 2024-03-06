@@ -7,7 +7,7 @@
 <!-- current projects -->
 # Current Personal Projects
 
-[![Project](https://img.shields.io/badge/Project-RAT-blue)](https://github.com/tarasermolenko/RAT)
+[![Project](https://img.shields.io/badge/Project-DataScience-blue)](https://github.com/tarasermolenko/DataScienceProject)
 
 
 <!-- other projects -->
