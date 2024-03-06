@@ -5,7 +5,7 @@
 
 
 <!-- current projects -->
-# Current Personal Projects
+# Current Projects
 
 [![Project](https://img.shields.io/badge/Project-DataScience-blue)](https://github.com/tarasermolenko/DataScienceProject)
 
