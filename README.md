@@ -7,8 +7,6 @@
 <!-- current projects -->
 # Current Projects
 
-[![Project](https://img.shields.io/badge/Project-DataScience-blue)](https://github.com/tarasermolenko/DataScienceProject)
-[![Project](https://img.shields.io/badge/Project-RemoteAccessTool-blue)](https://github.com/tarasermolenko/RAT)
 
 <!-- other projects -->
 # Completed Group Projects
