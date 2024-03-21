@@ -8,6 +8,3 @@
 # Current Projects
 
 
-<!-- other projects -->
-# Completed Group Projects
-[![Project](https://img.shields.io/badge/Project-Android_Game-green)](https://github.com/tarasermolenko/PersonalProjects/tree/main/SudokuGameApp)
