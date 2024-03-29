@@ -1,7 +1,7 @@
 <!-- other projects -->
 # Completed Personal Projects
 [![Project](https://img.shields.io/badge/Project-Air_Quality_API-green)](https://github.com/tarasermolenko/PersonalProjects/tree/main/AQIPythonCMDLineAssignment)
-[![Project](https://img.shields.io/badge/KnowledgeBase)](https://github.com/tarasermolenko/PersonalProjects/tree/main/KnowledgeBase)
+[![Project](https://img.shields.io/badge/Project-KnowledgeBase)](https://github.com/tarasermolenko/PersonalProjects/tree/main/KnowledgeBase)
 
 
 <!-- current projects -->
