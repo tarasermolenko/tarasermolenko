@@ -1,4 +1,4 @@
 <!-- current projects -->
-# Current 
-[![Project](https://img.shields.io/badge/Project-KnowledgeBase-green)](https://github.com/tarasermolenko/KnowledgeBase)
+# Current thing I'm working on
+[![Project](https://img.shields.io/badge/RemoteAccessTool)]([https://github.com/tarasermolenko/KnowledgeBase](https://github.com/tarasermolenko/RemoteAccessTool))
 
