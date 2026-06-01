@@ -6,4 +6,4 @@ asecrystals.ca
 
 *NPM Package:* [fix-refs on npmjs](https://www.npmjs.com/package/fix-refs?activeTab=code)
 
-![Fix Refs demo](https://raw.githubusercontent.com/tarasermolenko/tarasermolenko/main/fix-refs-demo.gif)
+![Fix Refs demo](fix-refs-demo.gif)
