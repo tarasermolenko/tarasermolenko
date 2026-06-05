@@ -1,6 +1,4 @@
 <!-- current projects -->
-# Current projects:
-[asecrystals.ca](https://asecrystals.ca)
 
 *VS Code Extension:* [fix-refs on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=TarasErmolenko.fix-refs-vscode)
 
